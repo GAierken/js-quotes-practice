@@ -11,7 +11,7 @@ Hello, let's build a simple app that allows us to keep track of our favorite quo
 
 ## Use `json-server` to Provide a Basic RESTful Data Store
 
-If you don't have `json-server` installed, run `$ npm i -g json-server`.
+If you don't have `json-server` installed, run `$ `npm i -g json-server``.
 
 If you already have it installed, run the server by: `$ json-server --watch
 db.json`.
